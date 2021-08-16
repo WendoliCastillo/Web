@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #ace7ff;
+}
+body{
+	background-color: #97a2ff;
+}
+}
+
+
+.container
+{
+	background-color: #ff9cee;
+}
+
+
+h2{
+	text-align: center;
+}
+
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}

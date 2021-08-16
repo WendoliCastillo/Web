@@ -1,0 +1,29 @@
+body{
+	background: #957dad;
+	margin: 15%px;
+}
+h1{
+background: #ffd700;
+font-size: 200%;
+}
+header{
+background: #ff1493;
+text-align: alineado;
+}
+h4{
+	background: #ffd700;
+	font-size: 150%;
+}
+ul,ol,dl{
+	background: #ff1493;
+	font-style: oblique;
+	font-size: 125%;
+}
+p,span{
+	font-style: italic;
+	font-size: 100%;
+}
+
+
+
+
